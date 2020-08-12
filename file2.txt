@@ -1,2 +1,0 @@
-This is some testing stuff to get better at github
-trying to add another line to the file2.txt
